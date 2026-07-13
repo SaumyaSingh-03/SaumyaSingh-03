@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning: **Java, Data Structures & Algorithms, Frontend Development**
+- 🌱 Skills: **Java, Data Structures & Algorithms, Full Stack Web Development**
 - 🎯 Goal: **Secure a strong internship (preferably international)**
 - 🤝 Open to: **Open-source collaboration & real-world projects**
 - 🧠 Improving: **Problem solving, system design basics, and backend skills**
@@ -18,11 +18,11 @@
 - HTML, CSS, JavaScript  
 - Currently exploring: React
 
-### ⚙️ Backend (Beginner Level)
+### ⚙️ Backend 
 - Node.js (learning phase)
 
 ### 🗄️ Database
-- MongoDB (basics)
+- MongoDB 
 
 ### 🛠️ Tools
 - Git & GitHub  
