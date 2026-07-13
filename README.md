@@ -42,15 +42,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaumyaSingh-03&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaumyaSingh-03&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=SaumyaSingh-03&theme=tokyonight" />
 </p>
 
